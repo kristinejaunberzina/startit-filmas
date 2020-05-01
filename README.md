@@ -1,3 +1,6 @@
+Piezīmes sev:
+https://startit-filmas2.herokuapp.com/vd/Afra
+
 # Gatavošanās DB semināram
 
 ## Fork šo repositoriju
